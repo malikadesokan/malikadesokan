@@ -46,7 +46,7 @@ I enjoy designing and building data pipelines, transforming raw data into reliab
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [Add your LinkedIn URL](https://linkedin.com/in/abdulmalik-adesokan)
+- LinkedIn: [(https://linkedin.com/in/abdulmalik-adesokan)]
 - GitHub: [My Repositories](https://github.com/)
 
 ---
